@@ -1,1 +1,1 @@
-# Selection-Sort
+# Sorting Algorithm
