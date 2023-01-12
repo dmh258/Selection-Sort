@@ -1,3 +1,3 @@
-# Selection-Sort
+# Sorting Algorithm
 
-This is file of selection sort
+Collection of sorting algorithm
